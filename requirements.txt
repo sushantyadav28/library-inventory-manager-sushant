@@ -3,5 +3,4 @@
 json
 pathlib
 logging
-unittest
 
