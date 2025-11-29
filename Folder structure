@@ -1,0 +1,14 @@
+library-inventory-manager/
+│
+├── README.md
+├── requirements.txt
+├── .gitignore
+├── Folder structure
+├── catalog.json
+├── main.py
+│
+└── library_manager/
+      ├── __init__.py
+      ├── book.py
+      └── inventory.py
+
