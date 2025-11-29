@@ -1,0 +1,5 @@
+---> These are the modules used in to buit library-inventory-manager <---
+json
+pathlib
+logging
+unittest
