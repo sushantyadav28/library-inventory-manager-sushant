@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Introduction to python",
+        "author": "Guido van rossum",
+        "isbn": "978000000001",
+        "status": "available"
+    },
+    {
+        "title": "Data structure and algorithm",
+        "author": "Mark Allen Weiss",
+        "isbn": "978000000002",
+        "status": "available"
+    },
+    {
+        "title": "Clean code",
+        "author": "Robert C. Martin",
+        "isbn": "978000000003",
+        "status": "available"
+    },
+    {
+        "title": "Operating system concepts",
+        "author": "Abraham Silberschatz",
+        "isbn": "4",
+        "status": "available"
+    }
+]
