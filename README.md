@@ -9,7 +9,7 @@ Subject: Programming for Problem Solving using Python
 Project Title: Library Inventory Manager
 
 
-## Library Inventory Manager – Python Mini Project ##
+## Library Inventory Manager ##
 A simple and modular Pyhton-based LIBRARY MANAGMENT SYSTEM that uses Object-Oriented-Programming (OOP) , JSON file handling , exception handling , and a menue driver to manage books in a library
 ## Project Overview ##
 This project helps manage a small library book managment using a simple command-line interface.
@@ -67,3 +67,4 @@ main.py contains the user interface
 Handles missing/corrupted JSON files
 
 Validates operations before issuing/returning books
+
